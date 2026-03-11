@@ -1,0 +1,3 @@
+
+#include "DEF-files/SHMS/PRODUCTION/BLOCK/pblock_vars.def"
+#include "DEF-files/SHMS/PRODUCTION/EPICS/pepics_vars.def"

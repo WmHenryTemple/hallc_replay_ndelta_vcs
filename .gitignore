@@ -1,0 +1,30 @@
+# File extensions
+*~
+*#*#*
+*.d
+*.so
+*.pcm
+*.png
+*.ps
+*.eps
+*.pdf
+.nfs*
+*.root
+*.xpm
+
+# Directories
+RAID
+REPORT_OUTPUT
+HISTOGRAMS
+MON_OUTPUT
+ROOTfiles
+.root_history
+raw
+raw.copiedtotape
+cache
+scratch
+
+# Symbolic links
+hcana
+
+.vscode/
